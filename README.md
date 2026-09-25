@@ -11,3 +11,21 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `Shortcuts` (`Shortcuts.vbp`) | VB6 | WinForms exe | Server shortcuts, ping, disk space, service control |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Shortcuts.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- ADO / OLE DB provider for the server list database
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/Shortcuts`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
